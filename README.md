@@ -72,7 +72,7 @@ I am a passionate and results-driven developer with experience in building scala
 
 ## 📈 GitHub Stats
 
-![Biruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Biruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIRUK-MULATU&show_icons=true&theme=radical)
 
 ---
 
